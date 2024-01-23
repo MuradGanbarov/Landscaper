@@ -1,0 +1,781 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Landscaper.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Landscaper.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\css\\nivo-lightbox\\close.png",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\css\\nivo-lightbox\\close@2x.png",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\close@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\css\\nivo-lightbox\\default.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\css\\nivo-lightbox\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\css\\nivo-lightbox\\loading@2x.gif",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\loading@2x.gif"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\css\\nivo-lightbox\\next.png",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\css\\nivo-lightbox\\next@2x.png",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\next@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\css\\nivo-lightbox\\nivo-lightbox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\nivo-lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\css\\nivo-lightbox\\prev.png",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\css\\nivo-lightbox\\prev@2x.png",
+      "PackagePath": "staticwebassets\\assets\\css\\nivo-lightbox\\prev@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\css\\owl.theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\fonts\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\intro-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\intro-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\01-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\01-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\01-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\01-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\02-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\02-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\02-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\02-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\03-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\03-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\03-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\03-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\04-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\04-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\04-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\04-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\05-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\05-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\05-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\05-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\06-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\06-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\06-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\06-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\07-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\07-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\07-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\07-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\08-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\08-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\08-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\08-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\09-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\09-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\09-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\09-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\10-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\10-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\10-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\10-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\11-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\11-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\11-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\11-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\12-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\12-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\portfolio\\12-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\12-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\services\\135dbbab-781d-440e-977c-488cb2579f07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\135dbbab-781d-440e-977c-488cb2579f07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\services\\857f4d31-d4bf-4660-a1c0-406911e9854e.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\857f4d31-d4bf-4660-a1c0-406911e9854e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\services\\b9def145-bb30-4a4f-914b-234dcb0733b6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\b9def145-bb30-4a4f-914b-234dcb0733b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\services\\eda91ef5-e1ee-4a82-9838-33c9c877aa22.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\eda91ef5-e1ee-4a82-9838-33c9c877aa22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\services\\service-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\services\\service-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\services\\service-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\services\\service-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\img\\testimonials-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\js\\SmoothScroll.js",
+      "PackagePath": "staticwebassets\\assets\\js\\SmoothScroll.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\js\\contact_me.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact_me.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\js\\jqBootstrapValidation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jqBootstrapValidation.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\js\\jquery.1.11.1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.1.11.1.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\js\\jquery.isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\js\\nivo-lightbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\nivo-lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.06\\Desktop\\Landscaper\\Landscaper\\wwwroot\\assets\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Landscaper.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Landscaper.props",
+      "PackagePath": "build\\Landscaper.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Landscaper.props",
+      "PackagePath": "buildMultiTargeting\\Landscaper.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Landscaper.props",
+      "PackagePath": "buildTransitive\\Landscaper.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
